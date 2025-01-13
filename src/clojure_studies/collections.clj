@@ -11,3 +11,5 @@
           (my-map function (rest sequential)))))))
 (my-map println ["Joey" "Ross" "Monica" "Chandler" "Rachel"])
 (my-map println ["Joey" false "Ross" "Monica" "Chandler" "Rachel"])
+
+;loop
